@@ -1,0 +1,26 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "package-generator": "^1.0.4",
+    "package-json": "^6.5.0",
+    "package-name": "^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noureddine-semahi/ReadMe-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/noureddine-semahi/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/noureddine-semahi/ReadMe-Generator#readme"
+}
